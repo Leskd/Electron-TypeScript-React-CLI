@@ -1,10 +1,14 @@
 {
-  "name": "build-typescript-cli",
-  "version": "1.0.0",
+  "name": "electron-typescript-react",
+  "version": "0.1.4",
   "description": "build Electron-Typescript-React cli",
   "bin": {
     "build-app": "bin/commander.js"
   },
+  "bugs": {
+    "url": "http://github.com/Leskd/electron-react-typescript/issues"
+  },
+  "homepage": "http://github.com/Leskd/electron-react-typescript",
   "keywords": [
     "electron",
     "typescript",
