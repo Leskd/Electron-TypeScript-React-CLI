@@ -1,6 +1,6 @@
 {
   "name": "electron-typescript-react",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "build Electron-Typescript-React cli",
   "bin": {
     "build-app": "bin/commander.js"
